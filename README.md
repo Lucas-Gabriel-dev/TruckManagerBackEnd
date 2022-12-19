@@ -69,6 +69,9 @@ JSON: <br>
 ### Delete Truck - https://localhost:7042/Truck/DeleteTruck/{id}<br>
 Rota utilizada para deletar caminhões da base de dados.<br>
 
+# Execução
+Para iniciar o projeto execute em seu terminal o comando "dotnet watch run"
+
 <br>
 <h4 align="center">
 ✅  TruckManager 🚀 Concluído!!!  ✅
